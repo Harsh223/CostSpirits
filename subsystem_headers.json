@@ -1,0 +1,392 @@
+[
+  {
+    "name": "ECLS",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Engines",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Separation",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Structure",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Miscellaneous",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Attitude Control GN&C",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Solid Kick Motor",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Thrust Vector Control",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Launch & Landing Safety",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Data Management",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Thermal Control",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Propulsion",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Range Safety",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Antennas",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Mechanisms",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Power Dist Reg Cont",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "ASE",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Instrumentation Display & Contr",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Electrical Power",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Communication",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Reaction Control",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Avionics",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Crew Accommodations",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "CC&DH Group",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Electrical Power & Distribution Group",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  },
+  {
+    "name": "Structural/Mechanical Group",
+    "headers": [
+      "Mission",
+      "WBS Item",
+      "Lower Weight Range (lbs)",
+      "Higher Weight Range (lbs)",
+      "Lower D&D Cost Range",
+      "Higher D&D Cost Range",
+      "Lower Flight Unit Cost Range",
+      "Higher Flight Unit Cost Range",
+      "Lower Total Cost Range",
+      "Higher Total Cost Range"
+    ]
+  }
+]
