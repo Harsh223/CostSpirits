@@ -2,6 +2,9 @@
 
 A Streamlit-based web application for spacecraft subsystem cost estimation and analysis. This tool helps aerospace engineers and project managers estimate costs for various spacecraft subsystems using historical data and parametric models.
 
+Live Demo: The code is also hosted at https://costspirits.streamlit.app/ thanks to Streamlit Community Cloud.
+
+
 ## Features
 
 - **Easy Launch**: Quick start script (`run_costspirits.py`) for hassle-free application startup with dependency checking
